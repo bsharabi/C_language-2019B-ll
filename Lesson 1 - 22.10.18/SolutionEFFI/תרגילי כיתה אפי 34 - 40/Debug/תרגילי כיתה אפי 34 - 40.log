@@ -1,0 +1,8 @@
+﻿  תרגיל 40.cpp
+c:\users\barak\source\repos\solutioneffi\תרגילי כיתה אפי 34 - 40\תרגיל 40.cpp(36): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\barak\source\repos\solutioneffi\תרגילי כיתה אפי 34 - 40\תרגיל 40.cpp(36): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\barak\source\repos\solutioneffi\תרגילי כיתה אפי 34 - 40\תרגיל 40.cpp(36): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\barak\source\repos\solutioneffi\תרגילי כיתה אפי 34 - 40\תרגיל 40.cpp(36): note: this argument is used as a buffer size
+c:\users\barak\source\repos\solutioneffi\תרגילי כיתה אפי 34 - 40\תרגיל 40.cpp(42): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\barak\source\repos\solutioneffi\תרגילי כיתה אפי 34 - 40\תרגיל 40.cpp(48): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  תרגילי כיתה אפי 34 - 40.vcxproj -> C:\Users\Barak\source\repos\SolutionEFFI\Debug\תרגילי כיתה אפי 34 - 40.exe
